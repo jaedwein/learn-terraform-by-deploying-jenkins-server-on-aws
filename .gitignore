@@ -38,6 +38,7 @@ override.tf.json
 terraform.rc
 
 ### VisualStudioCode ###
+.vs/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

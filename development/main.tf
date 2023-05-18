@@ -1,3 +1,4 @@
+# https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/
 variable "cidr_block" {}
 variable "aws_access_key" {}
 variable "aws_secret_key" {}
